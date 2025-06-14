@@ -70,4 +70,5 @@ Public IP: 16.171.250.138
 
 ## 📸 Screenshot
 
-![Landing Page](landing-page-top.png) (landing-page-bottom.png)
+![Landing Page](landing-page-top.png) 
+
