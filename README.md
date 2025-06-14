@@ -63,7 +63,7 @@ Public IP: 16.171.250.138
  
 -  Configured auto-renewal:
     ```bash
-  sudo certbot renew --dry-run
+   sudo certbot renew --dry-run
 
 
 ---
